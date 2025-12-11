@@ -20,7 +20,7 @@ jobs:
 
       - name: Build with PyInstaller
         # Replace 'your_script.py' with your actual script name
-        run: pyinstaller --onefile your_script.py
+        run: pyinstaller --onefile neat_pulse_tool.py
 
       - name: Upload .exe
         uses: actions/upload-artifact@v3
