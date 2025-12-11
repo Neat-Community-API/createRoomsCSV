@@ -373,9 +373,6 @@ The tool includes comprehensive error handling for common issues:
 - Add `.env` and `venv/` to your `.gitignore` file if using Git
 - Your bearer token provides full API access - treat it like a password
 
-## Support
-
-For issues with the Neat Pulse API or to obtain your Organization ID and Bearer Token, please contact Neat Pulse support.
 
 ## License
 
